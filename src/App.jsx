@@ -332,7 +332,7 @@ function App() {
               </a>
             </div> */}
           </div>
-          <p>Copyright © 2020 Wajahat. All rights reserved</p>
+          <p>Copyright © 2020 Wajahat. All rights reserved..</p>
         </div>
       </section>
       {/* End Footer */}
